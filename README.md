@@ -19,9 +19,9 @@
 	<p>
 		Berikut adalah penjelasan dari fitur-fitur yang terdapat dalam <b>Program Menu BST</b> tersebut :
 	</p>
-	<p><b>[1] Insert<</b>, digunakan untuk node/data ke dalam tree. Apabila data berhasil terinput, akan muncul tulisan "Node Added".</p>
-	<p><b>[2] Search</b>, digunakan untuk mencari node tertentu dalam tree tersebut. Pencarian dilakukan berdasarkan node yang sudah terinput. Jika pencarian berhasil dilakukan, maka akan muncul tulisan "Node Founded". Namun, jika pencarian gagal dilakukan, akan muncul tulisan "Sorry, Node not Founded".</p>
-	<p><b>[3] Delete</b>, digunakan untuk menghapus node/data dalam tree. Jika penghapusan berhasil, akan muncul tulisan "Node Deleted!"</p>
+	<p><b>[1] Insert<</b>, digunakan untuk node/data ke dalam tree. Apabila data berhasil terinput, akan muncul tulisan "Data berhasil ditambahkan!".</p>
+	<p><b>[2] Search</b>, digunakan untuk mencari node tertentu dalam tree tersebut. Pencarian dilakukan berdasarkan node yang sudah terinput. Jika pencarian berhasil dilakukan, maka akan muncul tulisan "Data Ditemukan!". Namun, jika pencarian gagal dilakukan, akan muncul tulisan "Maaf, data tidak ditemukan. Silakan coba lagi".</p>
+	<p><b>[3] Delete</b>, digunakan untuk menghapus node/data dalam tree. Jika penghapusan berhasil, akan muncul tulisan "Data berhasil dihapus!"</p>
 	<p><b>[4] Pre-Order Traversal</b>, digunakan untuk menampilkan node secara Pre-Order. Diawali dari <i>Root (First Node) -> Left Subtree -> Right Subtree</i></p>
 	<p><b>[5] In-Order Traversal</b>, digunakan untuk menampilkan node secara In-Order. Diawali dari <i>Left Subtree -> Root (First Node) -> Right Subtree</i></p>
 	<p><b>[6] Post-Order Traversal</b>, digunakan untuk menampilkan node secara Post-Order. Diawali dari <i>Left Subtree -> Right Subtree -> Root (First Node)</i></p>
@@ -34,4 +34,3 @@
 	<p>	Selanjutnya, untuk pilihan menu <b>[9] RESET</b>, pengguna dapat menggunakan fitur ini jika ingin mengganti BST yang sudah ada dengan BST lainnya, maka otomatis BST yang sudah ada akan langsung terhapus (Reset). Kemudian, jika pengguna sudah selesai menggunakan program, dapat memilih pilihan menu <b>[x] EXIT</b> untuk keluar dari program.</p>
 </body>
 </html>
-
